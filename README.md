@@ -5,7 +5,7 @@
 - 📫 How to reach me -
 -  gmail id - anujkumarsharma2023@gmail.com
 - linkedin - www.linkedin.com/in/anuj-undefined-b1b575284
-- 
+- twitter - https://twitter.com/AnujSha01829426
 
 <!---
 growth2032/growth2032 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
